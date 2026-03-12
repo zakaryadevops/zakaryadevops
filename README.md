@@ -1,23 +1,40 @@
 # Hi 👋 I'm Muhammad Zakarya
 
-🎓 Computer Science Student  
-🌱 Future MERN Stack Developer  
-🤖 Interested in AI and Web Development  
+🎓 BS Computer Science Student  
+💻 Future MERN Stack Developer  
+🧠 Interested in Artificial Intelligence  
 
 ---
 
-## 🚀 Skills
-- JavaScript  
-- Node.js  
-- React  
-- MongoDB  
+## 🚀 Currently Learning
+
+- JavaScript (Modern ES6)
+- Node.js
+- Express.js
+- MongoDB
+- React
 
 ---
 
-## 📚 Currently Learning
-- Modern JavaScript (ES6)  
+## 🛠 Tech Stack
+
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+- Node.js (learning)
 
 ---
 
-✨ Thanks for visiting my profile!  
-Feel free to check out my repositories and connect with me.
+## 📚 Goals
+
+✔ Master MERN Stack  
+✔ Build real-world projects  
+✔ Get a software development internship  
+✔ Pursue MS in AI  
+
+---
+
+## 📈 GitHub Stats
+
+Learning and building projects every week 
